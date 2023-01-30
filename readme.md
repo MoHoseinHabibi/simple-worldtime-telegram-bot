@@ -5,6 +5,7 @@ feel free to use this bot for you university porject
 این یه ربات ساده تلگرامه که اسم کشور رو به فارسی میگیره و ساعت محلی اون کشور رو میفرسته. 
 میتونید از این ربات برای پروژه دانشگاتون استفاده کنید.
 
+![bot chat sample](/preview.png)
 # how to run
 1. install requirements by `pip install -r requirements.txt` command
 2. rename config.py.sample to config.py
